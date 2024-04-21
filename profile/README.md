@@ -9,4 +9,4 @@
 - [nosqd (Дмитрий)](https://github.com/nosqd) - full stack разработчик, отвечал за Backend, Application, TerminalApp, TerminalDesktop, CI
 - [BrainTor (Максим)](https://github.com/BrainTor) - full stack разработчик, отвечал за Frontend
 - [ShalamovArtem (Артём)](https://github.com/shalamovartem) - отвечал за задачи и дизайн
-- [pozitp (Артур)](https://github.com/pozitp) - отвечал за помощь в Application, TerminalApp, TerminalDesktop
+
